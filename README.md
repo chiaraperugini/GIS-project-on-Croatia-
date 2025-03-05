@@ -1,2 +1,2 @@
 # GIS-project-on-Croatia-
-This repository contains essential R scripts for spatial data processing, created for a university GIS course.
+This repository contains R code for spatial data processing, developed for a university GIS exam focused on Croatia.
